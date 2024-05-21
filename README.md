@@ -19,7 +19,7 @@ Danny has shared with you 3 key datasets for this case study:
 2. menu
 3. members
 
-All datasets exist within the dannys_diner database schema - be sure to include this reference within your SQL scripts as you start exploring the data and answering the case study questions.
+All datasets exist within the dannys_diner database schema - 
 
 ## DATA MODELLING
 
