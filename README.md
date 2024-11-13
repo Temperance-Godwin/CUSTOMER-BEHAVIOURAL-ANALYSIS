@@ -85,9 +85,9 @@ The final members table captures the join_date when a customer_id joined the bet
 
 ## RECOMMENDATIONS.
 
-Ramen seems to be Customer C’s favorite item, however, customer survey data should be collected and data-driven questions should be made to understand why customer C patronized just once. Other factors like Customer services could be related.
-Before becoming a member , Ramen was purchased by the customers , after obtaining the membership card, each customers purchased a different product. The customer survey data should be further analyzed to help provide more insights into the customer experience.
-To increase the purchase of the least popular item like Sushi, strategic marketing campaigns. Discounts, or adjusting the menu can be used in attracting customers to try these products which will help boost their popularity and purchase.
+1. Ramen seems to be Customer C’s favorite item, however, customer survey data should be collected and data-driven questions should be made to understand why customer C patronized just once. Other factors like Customer services could be related.
+2. Before becoming a member , Ramen was purchased by the customers , after obtaining the membership card, each customers purchased a different product. The customer survey data should be further analyzed to help provide more insights into the customer experience.
+3. To increase the purchase of the least popular item like Sushi, strategic marketing campaigns. Discounts, or adjusting the menu can be used in attracting customers to try these products which will help boost their popularity and purchase.
 
 ## CONCLUSION.
 The case study helped in uncovering insights about the customers behavior and these insights would assist in further analysis regarding customer satisfaction with the products and customer service to improve Danny’s business growth.
