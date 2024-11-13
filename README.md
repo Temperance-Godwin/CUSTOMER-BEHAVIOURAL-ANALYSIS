@@ -94,4 +94,4 @@ The case study helped in uncovering insights about the customers behavior and th
 
 ![](ThankYou.jpg)
 
-## Thank You For Following Through
+## Thank you for following through.
