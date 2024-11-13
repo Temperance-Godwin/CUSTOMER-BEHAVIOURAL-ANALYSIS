@@ -25,6 +25,9 @@ All datasets exist within the dannys_diner database schema -
 
 ![](Entity_diagram.png)
 
+## CREATING TABLES
+[View my code](Create.sql)
+
 ## TABLE 1: SALES 
 
 The sales table captures all customer_id level purchases with an corresponding order_date and product_id information for when and what menu items were ordered.
@@ -72,9 +75,19 @@ The final members table captures the join_date when a customer_id joined the bet
 3. Subqueries
 4. Aggregations
 
-## Business Questions And Solution
+## EXPLORATORY DATA ANALYSIS
+[View my code](EDA.sql)
 
-## MEDIUM ARTICLE
+## FINDINGS/INSIGHTS.
 
-[medium](https://medium.com/@roshetheefirst/sql-analysis-analysing-customer-behaviour-in-a-japanese-restuarant-dannys-dinner-17dcb7e612e9)
+1. Ramen is the most purchased item while Sushi is the least purchased item.
+2. Customer C does not have a membership card, unlike Customer A and Customer B. Customer C also has a few visiting days at the restaurant which might be as a result of the Customer having only one preference for a product. Ramen is the only product Customer C purchased.
 
+## RECOMMENDATIONS.
+
+Ramen seems to be Customer C’s favorite item, however, customer survey data should be collected and data-driven questions should be made to understand why customer C patronized just once. Other factors like Customer services could be related.
+Before becoming a member , Ramen was purchased by the customers , after obtaining the membership card, each customers purchased a different product. The customer survey data should be further analyzed to help provide more insights into the customer experience.
+To increase the purchase of the least popular item like Sushi, strategic marketing campaigns. Discounts, or adjusting the menu can be used in attracting customers to try these products which will help boost their popularity and purchase.
+
+## CONCLUSION.
+The case study helped in uncovering insights about the customers behavior and these insights would assist in further analysis regarding customer satisfaction with the products and customer service to improve Danny’s business growth.
