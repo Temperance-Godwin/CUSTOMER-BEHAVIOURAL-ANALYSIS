@@ -91,3 +91,7 @@ To increase the purchase of the least popular item like Sushi, strategic marketi
 
 ## CONCLUSION.
 The case study helped in uncovering insights about the customers behavior and these insights would assist in further analysis regarding customer satisfaction with the products and customer service to improve Danny’s business growth.
+
+![](ThankYou.jpg)
+
+## Thank You For Following Through
